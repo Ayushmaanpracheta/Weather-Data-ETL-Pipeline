@@ -1,6 +1,5 @@
 # **Weather and Air Quality ETL Pipeline**
 
-![](bground.jpg)
 
 ## **Project Overview**
 
